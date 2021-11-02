@@ -21,39 +21,58 @@
 </ul>
 
 <h5> 3. 서비스 흐름도 </h5>
-<img scr="https://github.com/Lee-Soyoon/parking_system/m1.png" width="600" height="370">
+<img scr="D:\github\main-master\m1.png" width="600" height="370">
  
 <h5> 4. 프로그램 작동 동영상 & 화면 및 설명 </h5>
 
 <h5> https://www.youtube.com/watch?v=p7RqX0axbCo&feature=youtu.be </h5>
 
 <h5>OpenCV를 이용한 차량 번호 인식</h5>
-![image](https://user-images.githubusercontent.com/49148640/139810073-2eadf60d-23f7-49a2-a534-354cee034740.png)
 
-OpenCV 라이브러리를 이용해 차량의 번호판 글자 인식 및 추출. 인식된 번호를DB에 자동으로 데이터 삽입해 데이터 누적.
+// opencv 인식 사진
+
+- OpenCV 라이브러리를 이용해 차량의 번호판 글자 인식 및 추출. 인식된 번호를DB에 자동으로 데이터 삽입해 데이터 누적.
+
+<h5>장애인 차량 스티커 인식</h5>
+//사진
+
+- OpenCV 라이브러리를 이용해 차량의 장애인 차량 스티커 인식. 준비된 장애인 차량 스티커와 실제 차량의 스티커가 일치하는 부분을 비교해 50개 이상 일치할 때 장애인 차량으로 간주함.
+
+<h5>S/W 웹 기능 실사 사진</h5>
+//사진
+
+<h5>- 사용자 웹 페이지</h5>
+
+1. 프론트 페이지에서 사용자/매니저 구분 및 회원가입
+2. 사용자 로그인
+3. 사용자 페이지에서 현재 잔여 좌석 확인
+
+<h5>- 관리자 웹 페이지</h5>
+
+1. 주차장 실시간 확민 및 특수 구역 관리
+2. 차량 번호 조회를 통한 거주자의 정보 확인
+3. 장기 주차 차량 조회 및 출차 유도를 통한 관리
+
+<h5>R을 이용한 차량 시간 조회</h5>
+//사진
+
+    R과 MySQL을 연결한 후 resident_long_term_parking 테이블의 total_time 컬럼의 시간 중 max 값을 찾음. 그 max에 해당하는 정수 값이 가장 주차를 오래한 차가 되므로 출차 유도를 해야 함. 관리자 페이지에서 max 값에 해당하는 숫자를 입력하면 해당 시간만큼 주차한 차량을 웹에서 출력한 후 출차 유도.
 
 <h5> 5. 역할 분담 </h5>
 
-<ul> 
- <li> 20180887 강민진 </li>
-웹 호스팅 담당
-db 임포트 및 xml 파일 변환, 인코딩
- <li> 20180990 이소윤 </li>
-db와 웹 페이지 연동 및 웹 페이지 프로그래밍, db 임포트
-sql 쿼리 작성 및 career.php, closedt.php, local.php, salary.php 구현
- <li>	20180991 이영주 </li>
-전체 시스템 취합 및 프로젝트 목표 확립, sql 쿼리 작성 및
-소개 페이지 작성 
- <li>	20172076 이지원 </li>
-sql 쿼리 작성 및 웹 페이지 프로그래밍
+<ul>
+
+ <li> 팀장 -  이소윤 </li>
+dOpenCV,  AWS S3 , web css 
+OpenCV를 이용하여 차량번호 식별
+Apache를 이용하여 웹 구축
+- 주차장 실시간 학인
+- 거주자 정보 확인
+- 정기 거주 차량 조회
+ <li> 김은서 </li>
+AWS EC2, manager web, DB 
+ <li> 김보연 </li>
+R,  WS S3 , web css
+ <li> 홍민아 </li>
+AWS EC2, user web
 </ul>
-<h5> + 저희는 연락을 빠르게 수행하기 위해 슬랙보다는 카카오톡 단체 채팅방에서 회의와 프로그래밍 진행상황을 공유하였으며 슬랙은 회의 내용을 요약해 간단히 작성해 놓았습니다.</h5>
-
-<h5> 6. 데이터베이스 출처 : 워크넷 </h5>
-http://openapi.work.go.kr/opi/opi/opia/wantedApi.do?authKey=WNKIECSDX2XT7JDKXLBUU2VR1HK&callTp=L&returnType=XML&startPage=1&display=10
-
-<h5> 7. 웹 호스팅 주소 </h5>
-http://dbpt12.woobi.co.kr/index.php
-
-<h5> 8. 웹 호스팅 영상 </h5>
-https://youtu.be/ZuGC13up_Rk
