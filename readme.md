@@ -21,7 +21,7 @@
 </ul>
 
 <h5> 3. 서비스 흐름도 </h5>
-<img scr="D:\github\main-master\m1.png" width="600" height="370">
+<img scr="https://github.com/Lee-Soyoon/parking_system/m1.png" width="600" height="370">
  
 <h5> 4. 프로그램 작동 동영상 & 화면 및 설명 </h5>
 
