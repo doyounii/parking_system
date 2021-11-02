@@ -29,7 +29,7 @@
 
 <h5>OpenCV를 이용한 차량 번호 인식</h5>
 
-// opencv 인식 사진
+![image](https://user-images.githubusercontent.com/49148640/139928813-e394977a-a81d-4a36-aef1-b83d64c754dc.png)
 
 - OpenCV 라이브러리를 이용해 차량의 번호판 글자 인식 및 추출. 인식된 번호를DB에 자동으로 데이터 삽입해 데이터 누적.
 
