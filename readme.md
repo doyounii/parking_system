@@ -54,7 +54,7 @@
 #
 
 <h5>- 사용자 웹 페이지</h5>
-![image](https://user-images.githubusercontent.com/49148640/140250685-6928ef8f-8eab-498b-a495-b9db98cd5646.png)
+![image](https://user-images.githubusercontent.com/49148640/140250978-807e4466-fdf8-438b-a2d0-75d55a462aea.png)
 
 1. 프론트 페이지에서 사용자/매니저 구분 및 회원가입
 2. 사용자 로그인
