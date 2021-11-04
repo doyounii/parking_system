@@ -34,7 +34,7 @@
 
 #
 
-<h5>OpenCV를 이용한 차량 번호 인식</h5>
+<h5> OpenCV를 이용한 차량 번호 인식</h5>
 
 ![image](https://user-images.githubusercontent.com/49148640/140250567-a75282a9-513d-4c5c-bc7a-ccdbdc89b67c.png)
 
@@ -42,27 +42,29 @@
 
 #
 
-
+<h5> 장애인 차량 스티커 인식 </h5>
 ![image](https://user-images.githubusercontent.com/49148640/140272575-3428d6f1-df3f-4302-a5b5-a46a15845335.png)
 
 
 - OpenCV 라이브러리를 이용해 차량의 장애인 차량 스티커 인식. 준비된 장애인 차량 스티커와 실제 차량의 스티커가 일치하는 부분을 비교해 50개 이상 일치할 때 장애인 차량으로 간주함.
 
 #
-
+<h5> S/W 웹 기능 </h5>
 ![image](https://user-images.githubusercontent.com/49148640/140272594-74731422-a09b-4878-9a29-05e3d3645cc6.png)
+
+
+<h5>- 사용자 웹 페이지</h5>
 
 
 ![image](https://user-images.githubusercontent.com/49148640/140272639-cced6659-6fff-46da-9e3b-696db98d88cf.png)
 
 
-#
-
-<h5>- 사용자 웹 페이지</h5>
 
 1. 프론트 페이지에서 사용자/매니저 구분 및 회원가입
 2. 사용자 로그인
 3. 사용자 페이지에서 현재 잔여 좌석 확인
+
+
 
 
 #
@@ -77,6 +79,9 @@
 2. 차량 번호 조회를 통한 거주자의 정보 확인
 3. 장기 주차 차량 조회 및 출차 유도를 통한 관리
 #
+
+
+![image](https://user-images.githubusercontent.com/49148640/140272814-b69a6137-6b1b-45c7-b97d-2285dd2f7765.png)
 
 
 <h5>R을 이용한 차량 시간 조회</h5>
