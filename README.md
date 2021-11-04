@@ -40,7 +40,7 @@
 
 - OpenCV 라이브러리를 이용해 차량의 번호판 글자 인식 및 추출. 인식된 번호를DB에 자동으로 데이터 삽입해 데이터 누적.
 
-#
+##### 장애인 차량 스티커 인식
 
 ![image](https://user-images.githubusercontent.com/49148640/140272575-3428d6f1-df3f-4302-a5b5-a46a15845335.png)
 
