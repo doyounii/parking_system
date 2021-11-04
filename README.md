@@ -79,13 +79,12 @@
 2. 차량 번호 조회를 통한 거주자의 정보 확인
 3. 장기 주차 차량 조회 및 출차 유도를 통한 관리
 #
-
+<h5>R을 이용한 차량 시간 조회</h5>
 
 ![image](https://user-images.githubusercontent.com/49148640/140272814-b69a6137-6b1b-45c7-b97d-2285dd2f7765.png)
 
 
-<h5>R을 이용한 차량 시간 조회</h5>
-![image](https://user-images.githubusercontent.com/49148640/140250824-7bf37826-d50f-4d3b-842f-b5316172815e.png)
+
 
 
     R과 MySQL을 연결한 후 resident_long_term_parking 테이블의 total_time 컬럼의 시간 중 max 값을 찾음. 그 max에 해당하는 정수 값이 가장 주차를 오래한 차가 되므로 출차 유도를 해야 함. 관리자 페이지에서 max 값에 해당하는 숫자를 입력하면 해당 시간만큼 주차한 차량을 웹에서 출력한 후 출차 유도.
