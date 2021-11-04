@@ -42,22 +42,23 @@
 
 #
 
-<h5>장애인 차량 스티커 인식</h5>
-![image](https://user-images.githubusercontent.com/49148640/140250591-30261cb9-1784-41f1-bb78-0ee14771c78a.png)
+
+![image](https://user-images.githubusercontent.com/49148640/140272575-3428d6f1-df3f-4302-a5b5-a46a15845335.png)
 
 
 - OpenCV 라이브러리를 이용해 차량의 장애인 차량 스티커 인식. 준비된 장애인 차량 스티커와 실제 차량의 스티커가 일치하는 부분을 비교해 50개 이상 일치할 때 장애인 차량으로 간주함.
 
 #
 
-<h5>S/W 웹 기능 실사 사진</h5>
-![image](https://user-images.githubusercontent.com/49148640/139928720-f50ac2e1-f3be-4ec8-bf9c-7400f41e1760.png)
+![image](https://user-images.githubusercontent.com/49148640/140272594-74731422-a09b-4878-9a29-05e3d3645cc6.png)
+
+
+![image](https://user-images.githubusercontent.com/49148640/140272639-cced6659-6fff-46da-9e3b-696db98d88cf.png)
 
 
 #
 
 <h5>- 사용자 웹 페이지</h5>
-![image](https://user-images.githubusercontent.com/49148640/140250978-807e4466-fdf8-438b-a2d0-75d55a462aea.png)
 
 1. 프론트 페이지에서 사용자/매니저 구분 및 회원가입
 2. 사용자 로그인
