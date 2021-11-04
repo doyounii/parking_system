@@ -111,8 +111,5 @@ AWS EC2, user web
 </ul>
 
 
-![image](https://user-images.githubusercontent.com/49148640/140272381-f795964a-d04f-4324-a57d-bbf714abd5a3.png)
 
-
-![image](https://user-images.githubusercontent.com/49148640/140272468-9c6c9222-5622-4af9-8beb-8747ec57525a.png)
 
