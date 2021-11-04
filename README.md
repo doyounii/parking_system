@@ -42,7 +42,6 @@
 
 #
 
-<h5> 장애인 차량 스티커 인식 </h5>
 ![image](https://user-images.githubusercontent.com/49148640/140272575-3428d6f1-df3f-4302-a5b5-a46a15845335.png)
 
 
