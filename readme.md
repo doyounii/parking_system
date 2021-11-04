@@ -48,7 +48,7 @@
 #
 
 <h5>S/W 웹 기능 실사 사진</h5>
-![image](https://user-images.githubusercontent.com/49148640/140250612-147575ca-be81-4728-981c-32af9565e74f.png)
+![image](https://user-images.githubusercontent.com/49148640/139928720-f50ac2e1-f3be-4ec8-bf9c-7400f41e1760.png)
 
 
 #
@@ -82,7 +82,7 @@
     R과 MySQL을 연결한 후 resident_long_term_parking 테이블의 total_time 컬럼의 시간 중 max 값을 찾음. 그 max에 해당하는 정수 값이 가장 주차를 오래한 차가 되므로 출차 유도를 해야 함. 관리자 페이지에서 max 값에 해당하는 숫자를 입력하면 해당 시간만큼 주차한 차량을 웹에서 출력한 후 출차 유도.
 
 
-![image](https://user-images.githubusercontent.com/49148640/139928720-f50ac2e1-f3be-4ec8-bf9c-7400f41e1760.png)
+
 
 <h5> 5. 역할 분담 </h5>
 
