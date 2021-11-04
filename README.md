@@ -25,7 +25,7 @@
 <h5> 3. 서비스 흐름도 </h5>
 ![image](https://user-images.githubusercontent.com/49148640/140250521-ab72451f-7973-41fe-84bd-d258ec8855a0.png)
 
-#
+
 
 <h5> 4. 프로그램 작동 동영상 & 화면 및 설명 </h5>
 
