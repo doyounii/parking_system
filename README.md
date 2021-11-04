@@ -23,6 +23,8 @@
 </ul>
 
 
+<h5> 3. 서비스 흐름도 </h5>
+
 ![image](https://user-images.githubusercontent.com/49148640/140272486-9a87a33f-9c29-4795-9215-122e202ab39a.png)
 
 
